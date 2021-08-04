@@ -27,7 +27,7 @@
 #include <config.h>
 #include <crypt.h>
 #include <hal.h>
-#include <eeprom.h>
+#include <avr/eeprom.h>
 #include <io.h>
 #include <log.h>
 #include <string.h>
